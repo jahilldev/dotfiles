@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.requireConfig": true,
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
